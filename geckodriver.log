@@ -1,0 +1,625 @@
+1728629061576	geckodriver	INFO	Listening on 127.0.0.1:46815
+1728629063594	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilek64Lfx"
+Gtk-Message: 10:14:24.260: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1728629280507	geckodriver	INFO	Listening on 127.0.0.1:42541
+1728629281172	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileuu5JTK"
+Gtk-Message: 10:18:01.823: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1728629958194	geckodriver	INFO	Listening on 127.0.0.1:43589
+1728629958900	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilerQnGKK"
+Gtk-Message: 10:29:19.552: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1728630005156	geckodriver	INFO	Listening on 127.0.0.1:49535
+1728630005847	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilesZby87"
+Gtk-Message: 10:30:06.468: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+(firefox:131868): GLib-GIO-DEBUG: 10:30:06.473: Using cross-namespace EXTERNAL authentication (this will deadlock if server is GDBus < 2.73.3)
+(firefox:131868): Gdk-DEBUG: 10:30:06.603: Ignoring portal setting for org.gnome.desktop.privacy disable-microphone
+(firefox:131868): Gdk-DEBUG: 10:30:06.603: Ignoring portal setting for org.gnome.desktop.privacy disable-camera
+(firefox:131868): Gdk-DEBUG: 10:30:06.603: Ignoring portal setting for org.gnome.desktop.privacy old-files-age
+(firefox:131868): Gdk-DEBUG: 10:30:06.603: Using portal setting for org.gnome.desktop.privacy remember-recent-files: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.603: Ignoring portal setting for org.gnome.desktop.privacy disable-sound-output
+(firefox:131868): Gdk-DEBUG: 10:30:06.603: Ignoring portal setting for org.gnome.desktop.privacy send-software-usage-stats
+(firefox:131868): Gdk-DEBUG: 10:30:06.603: Ignoring portal setting for org.gnome.desktop.privacy report-technical-problems
+(firefox:131868): Gdk-DEBUG: 10:30:06.603: Ignoring portal setting for org.gnome.desktop.privacy remove-old-trash-files
+(firefox:131868): Gdk-DEBUG: 10:30:06.603: Ignoring portal setting for org.gnome.desktop.privacy remove-old-temp-files
+(firefox:131868): Gdk-DEBUG: 10:30:06.603: Ignoring portal setting for org.gnome.desktop.privacy privacy-screen
+(firefox:131868): Gdk-DEBUG: 10:30:06.603: Ignoring portal setting for org.gnome.desktop.privacy usb-protection
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.privacy usb-protection-level
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.privacy remember-app-usage
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.privacy show-full-name-in-top-bar
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.privacy hide-identity
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Using portal setting for org.gnome.desktop.privacy recent-files-max-age: -1
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Using portal setting for org.gnome.desktop.a11y.interface high-contrast: false
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.settings-daemon.plugins.xsettings overrides
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.settings-daemon.plugins.xsettings disabled-gtk-modules
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.settings-daemon.plugins.xsettings enabled-gtk-modules
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.interface toolkit-accessibility
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.interface gtk-color-palette
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.interface can-change-accels
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.interface color-scheme
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Using portal setting for org.gnome.desktop.interface cursor-blink: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.interface clock-show-weekday
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Using portal setting for org.gnome.desktop.interface icon-theme: 'Yaru'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.interface gtk-im-preedit-style
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.interface scaling-factor
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.interface menus-have-tearoff
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Using portal setting for org.gnome.desktop.interface cursor-size: 24
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.interface gtk-color-scheme
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Using portal setting for org.gnome.desktop.interface gtk-im-module: ''
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.604: Ignoring portal setting for org.gnome.desktop.interface gtk-timeout-initial
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Using portal setting for org.gnome.desktop.interface gtk-theme: 'Yaru'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface clock-show-seconds
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface locate-pointer
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface clock-show-date
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Using portal setting for org.gnome.desktop.interface cursor-blink-time: 1200
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface toolbar-icons-size
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Using portal setting for org.gnome.desktop.interface font-antialiasing: 'rgba'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface gtk-timeout-repeat
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface toolbar-style
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface monospace-font-name
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface enable-hot-corners
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Using portal setting for org.gnome.desktop.interface overlay-scrolling: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Using portal setting for org.gnome.desktop.interface cursor-blink-timeout: 10
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Using portal setting for org.gnome.desktop.interface gtk-key-theme: 'Default'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface toolbar-detachable
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Using portal setting for org.gnome.desktop.interface cursor-theme: 'Yaru'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface avatar-directories
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface gtk-im-status-style
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Ignoring portal setting for org.gnome.desktop.interface menubar-detachable
+(firefox:131868): Gdk-DEBUG: 10:30:06.605: Using portal setting for org.gnome.desktop.interface text-scaling-factor: 1.0
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.interface show-battery-percentage
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.interface clock-format
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.interface menubar-accel
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Using portal setting for org.gnome.desktop.interface font-rgba-order: 'rgb'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Using portal setting for org.gnome.desktop.interface font-hinting: 'slight'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.interface document-font-name
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Using portal setting for org.gnome.desktop.interface gtk-enable-primary-paste: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Using portal setting for org.gnome.desktop.interface enable-animations: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Using portal setting for org.gnome.desktop.interface font-name: 'Ubuntu 11'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Using portal setting for org.gnome.desktop.sound theme-name: 'Yaru'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Using portal setting for org.gnome.desktop.sound event-sounds: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Using portal setting for org.gnome.desktop.sound input-feedback-sounds: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.sound allow-volume-above-100-percent
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.a11y always-show-universal-access-status
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Using portal setting for org.gnome.desktop.a11y always-show-text-caret: false
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.input-sources mru-sources
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.input-sources show-all-sources
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.input-sources current
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.input-sources xkb-options
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.input-sources sources
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.input-sources per-window
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.wm.preferences theme
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.wm.preferences focus-new-windows
+(firefox:131868): Gdk-DEBUG: 10:30:06.606: Ignoring portal setting for org.gnome.desktop.wm.preferences num-workspaces
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences raise-on-click
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences disable-workarounds
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences titlebar-uses-system-font
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences titlebar-font
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences resize-with-right-button
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Using portal setting for org.gnome.desktop.wm.preferences action-right-click-titlebar: 'menu'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Using portal setting for org.gnome.desktop.wm.preferences action-middle-click-titlebar: 'lower'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences mouse-button-modifier
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences auto-raise
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences workspace-names
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Using portal setting for org.gnome.desktop.wm.preferences action-double-click-titlebar: 'toggle-maximize'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences visual-bell-type
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences focus-mode
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Using portal setting for org.gnome.desktop.wm.preferences button-layout: ':minimize,maximize,close'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences auto-raise-delay
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences audible-bell
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.wm.preferences visual-bell
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Using portal setting for org.gnome.fontconfig serial: 0
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.607: Ignoring portal setting for org.gnome.desktop.privacy disable-microphone
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy disable-camera
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy old-files-age
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Using portal setting for org.gnome.desktop.privacy remember-recent-files: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy disable-sound-output
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy send-software-usage-stats
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy report-technical-problems
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy remove-old-trash-files
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy remove-old-temp-files
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy privacy-screen
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy usb-protection
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy usb-protection-level
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy remember-app-usage
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy show-full-name-in-top-bar
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.desktop.privacy hide-identity
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Using portal setting for org.gnome.desktop.privacy recent-files-max-age: -1
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Using portal setting for org.gnome.desktop.a11y.interface high-contrast: false
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.608: Ignoring portal setting for org.gnome.settings-daemon.plugins.xsettings overrides
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.settings-daemon.plugins.xsettings disabled-gtk-modules
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.settings-daemon.plugins.xsettings enabled-gtk-modules
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.desktop.interface toolkit-accessibility
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.desktop.interface gtk-color-palette
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.desktop.interface can-change-accels
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.desktop.interface color-scheme
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Using portal setting for org.gnome.desktop.interface cursor-blink: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.desktop.interface clock-show-weekday
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Using portal setting for org.gnome.desktop.interface icon-theme: 'Yaru'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.desktop.interface gtk-im-preedit-style
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.desktop.interface scaling-factor
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.desktop.interface menus-have-tearoff
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Using portal setting for org.gnome.desktop.interface cursor-size: 24
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.desktop.interface gtk-color-scheme
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Using portal setting for org.gnome.desktop.interface gtk-im-module: ''
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Ignoring portal setting for org.gnome.desktop.interface gtk-timeout-initial
+(firefox:131868): Gdk-DEBUG: 10:30:06.609: Using portal setting for org.gnome.desktop.interface gtk-theme: 'Yaru'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface clock-show-seconds
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface locate-pointer
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface clock-show-date
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Using portal setting for org.gnome.desktop.interface cursor-blink-time: 1200
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface toolbar-icons-size
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Using portal setting for org.gnome.desktop.interface font-antialiasing: 'rgba'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface gtk-timeout-repeat
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface toolbar-style
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface monospace-font-name
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface enable-hot-corners
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Using portal setting for org.gnome.desktop.interface overlay-scrolling: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Using portal setting for org.gnome.desktop.interface cursor-blink-timeout: 10
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Using portal setting for org.gnome.desktop.interface gtk-key-theme: 'Default'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface toolbar-detachable
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Using portal setting for org.gnome.desktop.interface cursor-theme: 'Yaru'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface avatar-directories
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface gtk-im-status-style
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface menubar-detachable
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Using portal setting for org.gnome.desktop.interface text-scaling-factor: 1.0
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface show-battery-percentage
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface clock-format
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Ignoring portal setting for org.gnome.desktop.interface menubar-accel
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Using portal setting for org.gnome.desktop.interface font-rgba-order: 'rgb'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.610: Using portal setting for org.gnome.desktop.interface font-hinting: 'slight'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.interface document-font-name
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Using portal setting for org.gnome.desktop.interface gtk-enable-primary-paste: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Using portal setting for org.gnome.desktop.interface enable-animations: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Using portal setting for org.gnome.desktop.interface font-name: 'Ubuntu 11'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Using portal setting for org.gnome.desktop.sound theme-name: 'Yaru'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Using portal setting for org.gnome.desktop.sound event-sounds: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Using portal setting for org.gnome.desktop.sound input-feedback-sounds: true
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.sound allow-volume-above-100-percent
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.a11y always-show-universal-access-status
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Using portal setting for org.gnome.desktop.a11y always-show-text-caret: false
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.input-sources mru-sources
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.input-sources show-all-sources
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.input-sources current
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.input-sources xkb-options
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.input-sources sources
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.input-sources per-window
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.wm.preferences theme
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.wm.preferences focus-new-windows
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.wm.preferences num-workspaces
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.wm.preferences raise-on-click
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.wm.preferences disable-workarounds
+(firefox:131868): Gdk-DEBUG: 10:30:06.611: Ignoring portal setting for org.gnome.desktop.wm.preferences titlebar-uses-system-font
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Ignoring portal setting for org.gnome.desktop.wm.preferences titlebar-font
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Ignoring portal setting for org.gnome.desktop.wm.preferences resize-with-right-button
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Using portal setting for org.gnome.desktop.wm.preferences action-right-click-titlebar: 'menu'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Using portal setting for org.gnome.desktop.wm.preferences action-middle-click-titlebar: 'lower'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Ignoring portal setting for org.gnome.desktop.wm.preferences mouse-button-modifier
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Ignoring portal setting for org.gnome.desktop.wm.preferences auto-raise
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Ignoring portal setting for org.gnome.desktop.wm.preferences workspace-names
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Using portal setting for org.gnome.desktop.wm.preferences action-double-click-titlebar: 'toggle-maximize'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Ignoring portal setting for org.gnome.desktop.wm.preferences visual-bell-type
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Ignoring portal setting for org.gnome.desktop.wm.preferences focus-mode
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Using portal setting for org.gnome.desktop.wm.preferences button-layout: ':minimize,maximize,close'
+
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Ignoring portal setting for org.gnome.desktop.wm.preferences auto-raise-delay
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Ignoring portal setting for org.gnome.desktop.wm.preferences audible-bell
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Ignoring portal setting for org.gnome.desktop.wm.preferences visual-bell
+(firefox:131868): Gdk-DEBUG: 10:30:06.612: Using portal setting for org.gnome.fontconfig serial: 0
+
+(firefox:131868): GLib-DEBUG: 10:30:06.731: unsetenv() is not thread-safe and should not be used after threads are created
+(firefox:131868): GLib-GIO-DEBUG: 10:30:06.814: _g_io_module_get_default: Found default implementation local (GLocalVfs) for ‘gio-vfs’
+(firefox:131868): GLib-GIO-DEBUG: 10:30:07.090: Using cross-namespace EXTERNAL authentication (this will deadlock if server is GDBus < 2.73.3)
+(firefox:131868): Gtk-DEBUG: 10:30:07.982: State 0 for MozillaGtkWidget 0x7f34a2687460 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.983: State 0 for MozillaGtkWidget 0x7f34a2687460 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.986: State 0 for GtkScrollbar 0x7f34a256cdd0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.987: State 64 for GtkScrollbar 0x7f34a256cdd0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.988: State 0 for context 0x7f34a2573640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.989: State 64 for context 0x7f34a2573640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.989: State 0 for context 0x7f34a25736b0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.990: State 2 for context 0x7f34a25736b0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.991: State 3 for context 0x7f34a25736b0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.991: State 64 for context 0x7f34a25736b0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.992: State 0 for GtkScrollbar 0x7f34a256cdd0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.992: State 2 for GtkScrollbar 0x7f34a256cdd0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.993: State 3 for GtkScrollbar 0x7f34a256cdd0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.993: State 64 for GtkScrollbar 0x7f34a256cdd0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.993: State 8 for GtkScrollbar 0x7f34a256cdd0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.994: State 0 for context 0x7f34a2573170 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.995: State 2 for context 0x7f34a2573170 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.995: State 3 for context 0x7f34a2573170 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.995: State 64 for context 0x7f34a2573170 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.996: State 8 for context 0x7f34a2573170 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.996: State 0 for context 0x7f34a2573640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.997: State 2 for context 0x7f34a2573640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.997: State 3 for context 0x7f34a2573640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.997: State 64 for context 0x7f34a2573640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.998: State 8 for context 0x7f34a2573640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.998: State 0 for context 0x7f34a25736b0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.999: State 2 for context 0x7f34a25736b0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.999: State 3 for context 0x7f34a25736b0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:07.999: State 64 for context 0x7f34a25736b0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.000: State 8 for context 0x7f34a25736b0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.000: State 0 for MozillaGtkWidget 0x7f34a2687460 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.000: State 0 for MozillaGtkWidget 0x7f34a2687460 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.001: State 0 for MozillaGtkWidget 0x7f34a2687460 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.001: State 0 for MozillaGtkWidget 0x7f34a2687460 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.001: State 8 for MozillaGtkWidget 0x7f34a2687460 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.004: State 0 for context 0x7f34a2573bf0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.004: State 0 for context 0x7f34a25738e0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.005: State 0 for context 0x7f34a25738e0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.007: State 0 for context 0x7f34a2549560 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.007: State 0 for context 0x7f34a2549560 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.008: State 8 for context 0x7f34a2549560 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.010: State 0 for GtkHeaderBar 0x7f34a54041d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.010: State 0 for GtkHeaderBar 0x7f34a54041d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.012: State 0 for GtkHeaderBar 0x7f34a54043b0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.012: State 0 for GtkHeaderBar 0x7f34a54043b0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.012: State 0 for GtkFixed 0x7f34b9650d30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.013: State 0 for GtkFixed 0x7f34b9650d30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.039: State 0 for GtkHeaderBar 0x7f34a54041d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.040: State 0 for GtkHeaderBar 0x7f34a54041d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.040: State 64 for GtkHeaderBar 0x7f34a54041d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.041: State 64 for GtkHeaderBar 0x7f34a54041d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.041: State 64 for GtkHeaderBar 0x7f34a54041d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.041: State 0 for GtkHeaderBar 0x7f34a54041d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.043: State 0 for context 0x7f34a255dcd0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.043: State 64 for context 0x7f34a255dcd0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.044: State 0 for GtkMenuBar 0x7f34bbb05fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.044: State 0 for GtkMenuBar 0x7f34bbb05fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.044: State 64 for GtkMenuBar 0x7f34bbb05fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.044: State 64 for GtkMenuBar 0x7f34bbb05fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.044: State 0 for GtkMenu 0x7f34a257b7a0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.045: State 0 for GtkMenu 0x7f34a257b7a0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.045: State 2 for context 0x7f34a2549640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.045: State 2 for context 0x7f34a2549640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.045: State 2 for context 0x7f34a2549640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.069: State 0 for context 0x7f34a25d6800 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.070: State 0 for context 0x7f34a25d63a0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.070: State 0 for context 0x7f34a25d63a0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.071: State 36 for context 0x7f34a25d6410 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.071: State 36 for context 0x7f34a25d6410 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.072: State 0 for GtkButton 0x7f34a25a3540 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.073: State 0 for GtkButton 0x7f34a25a3540 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.073: State 0 for GtkButton 0x7f34a25a3540 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.074: State 2 for GtkButton 0x7f34a25a3540 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.074: State 2 for GtkButton 0x7f34a25a3540 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.075: State 1 for GtkButton 0x7f34a25a3540 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.075: State 1 for GtkButton 0x7f34a25a3540 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.081: State 0 for GtkEntry 0x7f34a0d04e80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.086: State 0 for GtkButton 0x7f34a25a3a80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.086: State 0 for GtkButton 0x7f34a25a3a80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.086: State 0 for GtkButton 0x7f34a25a3a80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.087: State 0 for GtkButton 0x7f34a25a3a80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.087: State 0 for GtkButton 0x7f34a25a3a80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.087: State 0 for GtkButton 0x7f34a25a3a80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.088: State 1 for GtkButton 0x7f34a25a3a80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.088: State 1 for GtkButton 0x7f34a25a3a80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.088: State 1 for GtkButton 0x7f34a25a3a80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.089: State 512 for GtkLinkButton 0x7f34a5405660 doesn't match state 640 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.090: State 1024 for GtkLinkButton 0x7f34a5405660 doesn't match state 640 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.264: State 0 for MozillaGtkWidget 0x7f34a0d05160 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.265: State 0 for MozillaGtkWidget 0x7f34a0d05160 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.265: State 0 for MozillaGtkWidget 0x7f34a0d05160 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.265: State 0 for MozillaGtkWidget 0x7f34a0d05160 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.266: State 0 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.267: State 64 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.267: State 0 for context 0x7f34a0d12b80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.268: State 64 for context 0x7f34a0d12b80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.268: State 0 for context 0x7f34a0d12410 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.268: State 2 for context 0x7f34a0d12410 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.269: State 3 for context 0x7f34a0d12410 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.269: State 64 for context 0x7f34a0d12410 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.269: State 0 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.269: State 2 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.270: State 3 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.270: State 64 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.270: State 8 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.271: State 0 for context 0x7f34a0d128e0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.271: State 2 for context 0x7f34a0d128e0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.272: State 3 for context 0x7f34a0d128e0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.272: State 64 for context 0x7f34a0d128e0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.272: State 8 for context 0x7f34a0d128e0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.273: State 0 for context 0x7f34a0d12b80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.273: State 2 for context 0x7f34a0d12b80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.274: State 3 for context 0x7f34a0d12b80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.274: State 64 for context 0x7f34a0d12b80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.274: State 8 for context 0x7f34a0d12b80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.275: State 0 for context 0x7f34a0d12410 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.275: State 2 for context 0x7f34a0d12410 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.275: State 3 for context 0x7f34a0d12410 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.276: State 64 for context 0x7f34a0d12410 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.276: State 8 for context 0x7f34a0d12410 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.277: State 0 for MozillaGtkWidget 0x7f34a0d05160 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.277: State 0 for MozillaGtkWidget 0x7f34a0d05160 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.277: State 0 for MozillaGtkWidget 0x7f34a0d05160 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.278: State 0 for MozillaGtkWidget 0x7f34a0d05160 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.278: State 8 for MozillaGtkWidget 0x7f34a0d05160 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.279: State 0 for context 0x7f34a0d12a30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.280: State 0 for context 0x7f34a0d12090 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.280: State 0 for context 0x7f34a0d12090 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.281: State 0 for context 0x7f34a0d12480 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.281: State 0 for context 0x7f34a0d12480 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.282: State 8 for context 0x7f34a0d12480 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.284: State 0 for GtkHeaderBar 0x7f34a5404d10 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.284: State 0 for GtkHeaderBar 0x7f34a5404d10 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.285: State 0 for GtkHeaderBar 0x7f34a5405670 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.285: State 0 for GtkHeaderBar 0x7f34a5405670 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.285: State 0 for GtkFixed 0x7f34b9650d30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.286: State 0 for GtkFixed 0x7f34b9650d30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.301: State 0 for GtkHeaderBar 0x7f34a5404d10 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.301: State 0 for GtkHeaderBar 0x7f34a5404d10 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.302: State 64 for GtkHeaderBar 0x7f34a5404d10 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.302: State 64 for GtkHeaderBar 0x7f34a5404d10 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.302: State 64 for GtkHeaderBar 0x7f34a5404d10 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.302: State 0 for GtkHeaderBar 0x7f34a5404d10 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.304: State 0 for context 0x7f34a2549bf0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.304: State 64 for context 0x7f34a2549bf0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.305: State 0 for GtkMenuBar 0x7f34a25bac60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.305: State 0 for GtkMenuBar 0x7f34a25bac60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.305: State 64 for GtkMenuBar 0x7f34a25bac60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.305: State 64 for GtkMenuBar 0x7f34a25bac60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.305: State 0 for GtkMenu 0x7f34a0d06ca0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.306: State 0 for GtkMenu 0x7f34a0d06ca0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.306: State 2 for context 0x7f34a0d123a0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.306: State 2 for context 0x7f34a0d123a0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.307: State 2 for context 0x7f34a0d123a0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.312: State 0 for context 0x7f34a25d6cd0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.313: State 0 for context 0x7f34a2573100 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.313: State 0 for context 0x7f34a2573100 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.313: State 36 for context 0x7f34a25738e0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.314: State 36 for context 0x7f34a25738e0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.315: State 0 for GtkButton 0x7f34a25a3700 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.315: State 0 for GtkButton 0x7f34a25a3700 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.316: State 0 for GtkButton 0x7f34a25a3700 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.316: State 2 for GtkButton 0x7f34a25a3700 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.316: State 2 for GtkButton 0x7f34a25a3700 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.317: State 1 for GtkButton 0x7f34a25a3700 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.317: State 1 for GtkButton 0x7f34a25a3700 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.319: State 0 for GtkEntry 0x7f34a25d3b80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.322: State 0 for GtkButton 0x7f34a25a3c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.323: State 0 for GtkButton 0x7f34a25a3c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.323: State 0 for GtkButton 0x7f34a25a3c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.323: State 0 for GtkButton 0x7f34a25a3c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.323: State 0 for GtkButton 0x7f34a25a3c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.324: State 0 for GtkButton 0x7f34a25a3c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.324: State 1 for GtkButton 0x7f34a25a3c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.324: State 1 for GtkButton 0x7f34a25a3c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.324: State 1 for GtkButton 0x7f34a25a3c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.326: State 512 for GtkLinkButton 0x7f34a54041c0 doesn't match state 640 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.326: State 1024 for GtkLinkButton 0x7f34a54041c0 doesn't match state 640 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.720: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.722: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.726: State 0 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.727: State 64 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.728: State 0 for context 0x7f34a25b72c0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.730: State 64 for context 0x7f34a25b72c0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.731: State 0 for context 0x7f34a25bfb80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.732: State 2 for context 0x7f34a25bfb80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.732: State 3 for context 0x7f34a25bfb80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.733: State 64 for context 0x7f34a25bfb80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.734: State 0 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.734: State 2 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.735: State 3 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.736: State 64 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.737: State 8 for GtkScrollbar 0x7f34a256e1d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.738: State 0 for context 0x7f34a25b7e20 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.740: State 2 for context 0x7f34a25b7e20 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.741: State 3 for context 0x7f34a25b7e20 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.742: State 64 for context 0x7f34a25b7e20 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.744: State 8 for context 0x7f34a25b7e20 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.745: State 0 for context 0x7f34a25b72c0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.746: State 2 for context 0x7f34a25b72c0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.747: State 3 for context 0x7f34a25b72c0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.748: State 64 for context 0x7f34a25b72c0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.749: State 8 for context 0x7f34a25b72c0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.750: State 0 for context 0x7f34a25bfb80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.752: State 2 for context 0x7f34a25bfb80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.752: State 3 for context 0x7f34a25bfb80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.753: State 64 for context 0x7f34a25bfb80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.754: State 8 for context 0x7f34a25bfb80 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.754: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.754: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.755: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.755: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.756: State 8 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.758: State 0 for context 0x7f34a255dfe0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.759: State 0 for context 0x7f34a2573100 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.759: State 0 for context 0x7f34a2573100 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.762: State 0 for context 0x7f34a25bff00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.762: State 0 for context 0x7f34a25bff00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.762: State 8 for context 0x7f34a25bff00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.768: State 0 for GtkHeaderBar 0x7f34a5404ef0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.769: State 0 for GtkHeaderBar 0x7f34a5404ef0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.772: State 0 for GtkHeaderBar 0x7f34a54050d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.772: State 0 for GtkHeaderBar 0x7f34a54050d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.773: State 0 for GtkFixed 0x7f34b9485d30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.774: State 0 for GtkFixed 0x7f34b9485d30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.781: State 0 for GtkHeaderBar 0x7f34a5404ef0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.782: State 0 for GtkHeaderBar 0x7f34a5404ef0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.783: State 64 for GtkHeaderBar 0x7f34a5404ef0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.783: State 64 for GtkHeaderBar 0x7f34a5404ef0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.784: State 64 for GtkHeaderBar 0x7f34a5404ef0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.785: State 0 for GtkHeaderBar 0x7f34a5404ef0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.788: State 0 for context 0x7f34a25eb950 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.788: State 64 for context 0x7f34a25eb950 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.789: State 0 for GtkMenuBar 0x7f34a25b8740 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.790: State 0 for GtkMenuBar 0x7f34a25b8740 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.791: State 64 for GtkMenuBar 0x7f34a25b8740 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.791: State 64 for GtkMenuBar 0x7f34a25b8740 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.794: State 0 for GtkMenu 0x7f34a25474a0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.795: State 0 for GtkMenu 0x7f34a25474a0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.795: State 2 for context 0x7f34a25bf4f0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.796: State 2 for context 0x7f34a25bf4f0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.796: State 2 for context 0x7f34a25bf4f0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.808: State 0 for context 0x7f34b9645640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.810: State 0 for context 0x7f34a268f560 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.810: State 0 for context 0x7f34a268f560 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.811: State 36 for context 0x7f34a26d4790 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.811: State 36 for context 0x7f34a26d4790 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.813: State 0 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.813: State 0 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.813: State 0 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.814: State 2 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.814: State 2 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.815: State 1 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.815: State 1 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.820: State 0 for GtkEntry 0x7f34b9681180 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.826: State 0 for GtkButton 0x7f34c7aa0c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.827: State 0 for GtkButton 0x7f34c7aa0c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.827: State 0 for GtkButton 0x7f34c7aa0c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.827: State 0 for GtkButton 0x7f34c7aa0c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.828: State 0 for GtkButton 0x7f34c7aa0c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.828: State 0 for GtkButton 0x7f34c7aa0c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.828: State 1 for GtkButton 0x7f34c7aa0c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.829: State 1 for GtkButton 0x7f34c7aa0c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.829: State 1 for GtkButton 0x7f34c7aa0c40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.830: State 512 for GtkLinkButton 0x7f34a5405660 doesn't match state 640 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:08.831: State 1024 for GtkLinkButton 0x7f34a5405660 doesn't match state 640 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.055: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.056: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.056: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.056: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.060: State 0 for GtkScrollbar 0x7f34a256d3d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.060: State 64 for GtkScrollbar 0x7f34a256d3d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.060: State 0 for context 0x7f34a2573f70 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.061: State 64 for context 0x7f34a2573f70 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.061: State 0 for context 0x7f34a2573f00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.062: State 2 for context 0x7f34a2573f00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.062: State 3 for context 0x7f34a2573f00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.062: State 64 for context 0x7f34a2573f00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.063: State 0 for GtkScrollbar 0x7f34a256d3d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.063: State 2 for GtkScrollbar 0x7f34a256d3d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.063: State 3 for GtkScrollbar 0x7f34a256d3d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.064: State 64 for GtkScrollbar 0x7f34a256d3d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.064: State 8 for GtkScrollbar 0x7f34a256d3d0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.064: State 0 for context 0x7f34a2573e90 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.065: State 2 for context 0x7f34a2573e90 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.065: State 3 for context 0x7f34a2573e90 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.065: State 64 for context 0x7f34a2573e90 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.066: State 8 for context 0x7f34a2573e90 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.066: State 0 for context 0x7f34a2573f70 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.067: State 2 for context 0x7f34a2573f70 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.067: State 3 for context 0x7f34a2573f70 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.067: State 64 for context 0x7f34a2573f70 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.068: State 8 for context 0x7f34a2573f70 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.068: State 0 for context 0x7f34a2573f00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.069: State 2 for context 0x7f34a2573f00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.069: State 3 for context 0x7f34a2573f00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.069: State 64 for context 0x7f34a2573f00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.069: State 8 for context 0x7f34a2573f00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.070: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.070: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.070: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.071: State 0 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.071: State 8 for MozillaGtkWidget 0x7f34a0d06f60 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.073: State 0 for context 0x7f34a2573fe0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.074: State 0 for context 0x7f34a25b72c0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.074: State 0 for context 0x7f34a25b72c0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.076: State 0 for context 0x7f34a25bff00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.076: State 0 for context 0x7f34a25bff00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.076: State 8 for context 0x7f34a25bff00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.080: State 0 for GtkHeaderBar 0x7f34a5404b30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.080: State 0 for GtkHeaderBar 0x7f34a5404b30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.082: State 0 for GtkHeaderBar 0x7f34a5404ef0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.083: State 0 for GtkHeaderBar 0x7f34a5404ef0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.083: State 0 for GtkFixed 0x7f34b9485d30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.084: State 0 for GtkFixed 0x7f34b9485d30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.089: State 0 for GtkHeaderBar 0x7f34a5404b30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.089: State 0 for GtkHeaderBar 0x7f34a5404b30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.090: State 64 for GtkHeaderBar 0x7f34a5404b30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.090: State 64 for GtkHeaderBar 0x7f34a5404b30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.090: State 64 for GtkHeaderBar 0x7f34a5404b30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.090: State 0 for GtkHeaderBar 0x7f34a5404b30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.092: State 0 for context 0x7f34a25eb640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.092: State 64 for context 0x7f34a25eb640 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.093: State 0 for GtkMenuBar 0x7f34a25ba900 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.093: State 0 for GtkMenuBar 0x7f34a25ba900 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.093: State 64 for GtkMenuBar 0x7f34a25ba900 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.093: State 64 for GtkMenuBar 0x7f34a25ba900 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.093: State 0 for GtkMenu 0x7f34a25477a0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.094: State 0 for GtkMenu 0x7f34a25477a0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.094: State 2 for context 0x7f34a25bf480 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.094: State 2 for context 0x7f34a25bf480 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.094: State 2 for context 0x7f34a25bf480 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.100: State 0 for context 0x7f34b961f4f0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.101: State 0 for context 0x7f34a26d4d40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.102: State 0 for context 0x7f34a26d4d40 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.102: State 36 for context 0x7f34a27c1a30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.102: State 36 for context 0x7f34a27c1a30 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.103: State 0 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.104: State 0 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.104: State 0 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.104: State 2 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.104: State 2 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.105: State 1 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.105: State 1 for GtkButton 0x7f34a25a3e00 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.109: State 0 for GtkEntry 0x7f34b9682380 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.112: State 0 for GtkButton 0x7f34c7aa0fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.113: State 0 for GtkButton 0x7f34c7aa0fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.113: State 0 for GtkButton 0x7f34c7aa0fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.113: State 0 for GtkButton 0x7f34c7aa0fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.113: State 0 for GtkButton 0x7f34c7aa0fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.114: State 0 for GtkButton 0x7f34c7aa0fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.114: State 1 for GtkButton 0x7f34c7aa0fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.114: State 1 for GtkButton 0x7f34c7aa0fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.115: State 1 for GtkButton 0x7f34c7aa0fc0 doesn't match state 128 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.116: State 512 for GtkLinkButton 0x7f34a54050c0 doesn't match state 640 set via gtk_style_context_set_state ()
+(firefox:131868): Gtk-DEBUG: 10:30:09.116: State 1024 for GtkLinkButton 0x7f34a54050c0 doesn't match state 640 set via gtk_style_context_set_state ()
+1728655401765	geckodriver	INFO	Listening on 127.0.0.1:57111
+1728655403413	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileP16oYL"
+Gtk-Message: 17:33:24.037: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
